@@ -1,0 +1,59 @@
+index.html<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>MiCODUS MV880G Wired GPS Tracker – Waterproof Real-Time Fleet Tracking Device</title>
+  <meta name="description" content="IP67 waterproof wired GPS tracker easy to install. Real-time location, overspeed alart, geofence alert. OEM/ODM available. Factory direct from China.">
+  <!-- Open Graph for social sharing -->
+  <meta property="og:title" content="MiCODUS MV880G – Professional Wired GPS Tracker for Fleets">
+  <meta property="og:description" content="Waterproof, real-time GPS tracking. Ideal for logistics, taxis, and vehicle leasing companies.">
+  <meta property="og:image" content="https://via.placeholder.com/1200x630?text=MiCODUS+MV880G+GPS+Tracker">
+  <meta property="og:url" content="https://micodus-tracker.github.io">
+</head>
+<body style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; max-width: 900px; margin: 0 auto; padding: 20px; background: #f9f9f9; color: #333;">
+  <div style="background: white; padding: 30px; border-radius: 10px; box-shadow: 0 2px 10px rgba(0,0,0,0.05);">
+    <h1 style="color: #2c3e50; font-size: 28px;">MiCODUS MV880G – Professional Wired GPS Tracker</h1>
+    <p style="font-size: 18px; color: #e74c3c;"><strong>Waterproof • Real-Time • Easy to install • OEM Available</strong></p>
+
+    <div style="display: flex; gap: 10px; flex-wrap: wrap; margin: 20px 0;">
+  <img src="https://ibb.co/60dBvZXY" 
+       alt="MiCODUS MV880G Function View" 
+       style="width: 48%; border-radius: 6px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
+  <img src="https://ibb.co/fGF4thw9" 
+       alt="MiCODUS MV880G Realtime Tracking View" 
+<img src="https://ibb.co/bg6Rx79V" 
+       alt="MiCODUS MV880G Waterproof View" 
+<img src="https://ibb.co/99My58hq" 
+       alt="MiCODUS MV880G Geofence View" 
+       style="width: 48%; border-radius: 6px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
+</div>
+
+    <h2 style="color: #2980b9; margin-top: 30px;">Key Features</h2>
+    <ul style="line-height: 1.6;">
+      <li>✅ <strong>IP67 Waterproof</strong> – Works in rain, snow, or high humidity</li>
+      <li>✅ <strong>Real-Time Tracking</strong> – Update every 10s via 4G LTE network</li>
+      <li>✅ <strong>Easy to install</strong> – Reads fuel level, RPM, mileage, engine status</li>
+      <li>✅ <strong>Geofence Alert</strong> – Get SMS/email when vehicle leaves zone</li>
+      <li>✅ <strong>OEM/ODM Supported</strong> – Custom logo, app, server integration</li>
+      <li>✅ <strong>CE, FCC, RoHS Certified</strong> – Ready for global markets</li>
+    </ul>
+
+    <h2 style="color: #2980b9; margin-top: 30px;">Ideal For</h2>
+    <p>Fleet management companies, taxi services, car rental businesses, logistics providers, and vehicle leasing firms.</p>
+
+    <div style="text-align: center; margin: 40px 0;">
+      <a href="https://www.alibaba.com/product-detail/MiCODUS-MV880G-Wired-Waterproof-Real-Time_1601487742453.html" 
+         target="_blank"
+         style="display: inline-block; background: #e74c3c; color: white; padding: 14px 32px; text-decoration: none; border-radius: 6px; font-weight: bold; font-size: 18px; transition: background 0.3s;">
+        ➤ View on Alibaba – Get Quote Now
+      </a>
+    </div>
+
+    <p style="margin-top: 30px; padding-top: 20px; border-top: 1px solid #eee; color: #7f8c8d; font-size: 14px;">
+      © 2025 Shenzhen Micodus Electronic Technology Co., Limited. All rights reserved.  
+      <br>Professional GPS Tracking Solutions from China.
+    </p>
+  </div>
+</body>
+</html>
